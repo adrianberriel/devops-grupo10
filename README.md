@@ -11,3 +11,4 @@ Linea de Adrian Berriel
 Linea de Rene Medina
 
 ## Sección Alumno 4
+Comentario de Pablo Stuardo para evaluación DevOps Grupo 10
